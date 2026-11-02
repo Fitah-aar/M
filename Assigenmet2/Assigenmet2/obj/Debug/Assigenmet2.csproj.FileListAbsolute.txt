@@ -1,0 +1,11 @@
+C:\Users\AARKA\Downloads\C#\Assigenmet2\Assigenmet2\bin\Debug\Assigenmet2.exe.config
+C:\Users\AARKA\Downloads\C#\Assigenmet2\Assigenmet2\bin\Debug\Assigenmet2.exe
+C:\Users\AARKA\Downloads\C#\Assigenmet2\Assigenmet2\bin\Debug\Assigenmet2.pdb
+C:\Users\AARKA\Downloads\C#\Assigenmet2\Assigenmet2\obj\Debug\Assigenmet2.csproj.AssemblyReference.cache
+C:\Users\AARKA\Downloads\C#\Assigenmet2\Assigenmet2\obj\Debug\Assigenmet2.Form1.resources
+C:\Users\AARKA\Downloads\C#\Assigenmet2\Assigenmet2\obj\Debug\Assigenmet2.Properties.Resources.resources
+C:\Users\AARKA\Downloads\C#\Assigenmet2\Assigenmet2\obj\Debug\Assigenmet2.csproj.GenerateResource.cache
+C:\Users\AARKA\Downloads\C#\Assigenmet2\Assigenmet2\obj\Debug\Assigenmet2.csproj.CoreCompileInputs.cache
+C:\Users\AARKA\Downloads\C#\Assigenmet2\Assigenmet2\obj\Debug\Assigenmet2.exe
+C:\Users\AARKA\Downloads\C#\Assigenmet2\Assigenmet2\obj\Debug\Assigenmet2.pdb
+C:\Users\AARKA\Downloads\C#\Assigenmet2\Assigenmet2\obj\Debug\Assigenmet2.exe.config
