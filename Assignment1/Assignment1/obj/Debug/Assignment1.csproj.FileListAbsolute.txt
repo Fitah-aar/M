@@ -1,0 +1,11 @@
+C:\Users\AARKA\Downloads\C#\Assignment1\Assignment1\bin\Debug\Assignment1.exe.config
+C:\Users\AARKA\Downloads\C#\Assignment1\Assignment1\bin\Debug\Assignment1.exe
+C:\Users\AARKA\Downloads\C#\Assignment1\Assignment1\bin\Debug\Assignment1.pdb
+C:\Users\AARKA\Downloads\C#\Assignment1\Assignment1\obj\Debug\Assignment1.csproj.AssemblyReference.cache
+C:\Users\AARKA\Downloads\C#\Assignment1\Assignment1\obj\Debug\Assignment1.Form1.resources
+C:\Users\AARKA\Downloads\C#\Assignment1\Assignment1\obj\Debug\Assignment1.Properties.Resources.resources
+C:\Users\AARKA\Downloads\C#\Assignment1\Assignment1\obj\Debug\Assignment1.csproj.GenerateResource.cache
+C:\Users\AARKA\Downloads\C#\Assignment1\Assignment1\obj\Debug\Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\AARKA\Downloads\C#\Assignment1\Assignment1\obj\Debug\Assignment1.exe
+C:\Users\AARKA\Downloads\C#\Assignment1\Assignment1\obj\Debug\Assignment1.pdb
+C:\Users\AARKA\Downloads\C#\Assignment1\Assignment1\obj\Debug\Assignment1.exe.config
